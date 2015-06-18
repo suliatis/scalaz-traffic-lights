@@ -1,0 +1,7 @@
+src/main/java
+src/test/java
+target
+.idea
+*.iml
+project/project/target
+project/target
